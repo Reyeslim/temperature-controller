@@ -1,4 +1,4 @@
-# 🌡️ Controlador de Temperatura con Historial
+# Controlador de Temperatura con Historial
 
 ## 📌 Objetivo del Ejercicio
 
